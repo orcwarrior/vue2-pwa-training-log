@@ -1,0 +1,31 @@
+{
+  "name": "vue2-pwa-training-log",
+  "version": "0.0.1",
+  "description": "Training log PWA.",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.0.0-rc.8",
+    "vue-loader": "^9.5.0",
+    "vue-router": "^2.0.0-rc.7",
+    "vuex": "^2.0.0-rc.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orcwarrior/vue2-pwa-training-log.git"
+  },
+  "keywords": [
+    "training",
+    "workout",
+    "log"
+  ],
+  "author": "orcwarrior",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/orcwarrior/vue2-pwa-training-log/issues"
+  },
+  "homepage": "https://github.com/orcwarrior/vue2-pwa-training-log#readme"
+}
