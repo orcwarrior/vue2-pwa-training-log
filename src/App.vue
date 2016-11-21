@@ -1,7 +1,9 @@
 <template>
-  <div id="app">
+  <div id="pwa-trainer">
     <img src="./assets/logo.png">
-    <h1>{{ msg }}</h1>
+
+    <router-view></router-view>
+
     <h2>Essential Links</h2>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
@@ -21,7 +23,7 @@
 
 <script>
 export default {
-  name: 'app',
+  name: 'pwa-trainer',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -31,7 +33,7 @@ export default {
 </script>
 
 <style>
-#app {
+#pwa-trainer {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

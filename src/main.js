@@ -1,7 +1,14 @@
 import Vue from 'vue'
-import App from './App.vue'
+import AppComponent from './App.vue'
 
-new Vue({
-  el: '#app',
-  render: h => h(App)
-})
+import VueRouter from 'vue-router'
+import RouterMap from './router/map'
+
+// Setup vue-router:
+Vue.use(VueRouter)
+const router = new VueRouter({ routes: RouterMap })
+
+const app = new Vue({
+  router, /* router: router */
+  render: createElement => createElement(AppComponent) /* function(createElement) { return createElement(AppComponent) } */
+}).$mount('#app')
