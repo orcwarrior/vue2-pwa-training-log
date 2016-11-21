@@ -14,3 +14,6 @@ Założenia:
 * Service Worker (PWA)
 * Offline
 * Material Design
+
+# Pomoce:
+* Es2015 -> Traditional JS: https://babeljs.io/repl/
