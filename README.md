@@ -1,5 +1,4 @@
 # vue2-pwa-training-log
-just playing around
 ---
 Założenia:
 * Progressive Web App (https://developers.google.com/web/progressive-web-apps/)
