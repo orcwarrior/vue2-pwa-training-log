@@ -3,7 +3,7 @@
 Założenia:
 * Progressive Web App (https://developers.google.com/web/progressive-web-apps/)
 
-✓ JS ES6 (https://github.com/lukehoban/es6features)
+✓ JS ES6 (https://github.com/lukehoban/es6features; http://es6-features.org/)
 
 ✓ Vue.js 2.0 (vue-router 2.0 ✓; vuex)
 
