@@ -2,6 +2,8 @@
 ---
 Założenia:
 * Progressive Web App (https://developers.google.com/web/progressive-web-apps/)
+  * Service Worker (PWA)
+  * Offline
 
 ✓ JS ES6 (https://github.com/lukehoban/es6features; http://es6-features.org/)
 
@@ -10,8 +12,7 @@ Założenia:
 ✓ Webpack
 
 * HTTP/2
-* Service Worker (PWA)
-* Offline
+* Tests
 * Material Design
 
 # Pomoce:
