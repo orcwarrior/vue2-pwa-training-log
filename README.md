@@ -15,10 +15,14 @@ Project foundations:
 * Tests
 * Material Design (?)
 
-✓ [JS ES6](http://es6-features.org/)
-✓ Vue.js 2.0 (vue-router 2.0 ✓; vuex)
-✓ Webpack
-##Tools:
+✓ [JS ES6](http://es6-features.org/).
+
+✓ Vue.js 2.0 (vue-router 2.0 ✓; vuex).
+
+✓ Webpack.
+
+Tools:
+-------
  * [Figma project](https://www.figma.com/file/OAqvTI1W1YsHQXWdnYAHmvEw/Main)
 
 Misc:
