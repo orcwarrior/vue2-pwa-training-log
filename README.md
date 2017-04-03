@@ -1,19 +1,26 @@
-# vue2-pwa-training-log
----
-Założenia:
-* Progressive Web App (https://developers.google.com/web/progressive-web-apps/)
-  * Service Worker (PWA)
-  * Offline
+vue2-pwa-training-log
+----------
 
-✓ JS ES6 (https://github.com/lukehoban/es6features; http://es6-features.org/)
+(Project in early plan-tinker state)
 
-✓ Vue.js 2.0 (vue-router 2.0 ✓; vuex)
+Project foundations:
+----------
 
-✓ Webpack
-
+* [Progressive Web App](https://developers.google.com/web/progressive-web-apps/)
+* Service Worker 
+ * Cache
+ * Push Messages
+ * Offline storage
 * HTTP/2
 * Tests
-* Material Design
+* Material Design (?)
 
-# Pomoce:
+✓ [JS ES6](http://es6-features.org/)
+✓ Vue.js 2.0 (vue-router 2.0 ✓; vuex)
+✓ Webpack
+##Tools:
+ * [Figma project](https://www.figma.com/file/OAqvTI1W1YsHQXWdnYAHmvEw/Main)
+
+Misc:
+-------
 * Es2015 -> Traditional JS: https://babeljs.io/repl/
