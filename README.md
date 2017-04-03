@@ -1,7 +1,7 @@
 vue2-pwa-training-log
 ----------
 
-(Project in early plan-tinker state)
+(Project in early planning-tinkering state)
 
 Project foundations:
 ----------
